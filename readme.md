@@ -7,7 +7,7 @@ Finally, in this add-on to the Flashcards project, there is now a custom app ico
 
 ### App Walk-though 
 
-![ezgif-5-24becc1b77](https://user-images.githubusercontent.com/92334995/161398994-073e624b-4427-4402-a315-a1d0b7bd05e7.gif)
+![Lab 4 walkthrough](https://user-images.githubusercontent.com/86666720/197610731-79432cd8-99a3-4325-8a0d-d07820b11c38.gif)
 
 
 ## Required
@@ -32,8 +32,6 @@ In this add-on to the Flashcards project, the user can now create and browse thr
 
 ### App Walk-though
 
-![ezgif-4-eeb01301ec](https://user-images.githubusercontent.com/92334995/159146492-d5884347-ec45-4c79-a4b8-22aaba94f463.gif)
-
 
 ## Required
 - [x] User can browse through multiple flashcards
@@ -55,10 +53,6 @@ This is an addition to the previous Flashcards project. This Flashcards app pres
 ### App Walk-though
 
 
-![ezgif-4-5b0d2a5341](https://user-images.githubusercontent.com/92334995/159123752-2dff6427-a724-4888-a8e3-911983b52e3d.gif)
-
-
-
 ## Required
 - [x] User can open the creation screen
 - [x] User can cancel out of the creation screen
@@ -76,8 +70,6 @@ This is an addition to the previous Flashcards project. This Flashcards app pres
 
 ### App Description
 This Flashcards app presents the user with a specific question, presented in the form of a card. When the user taps on this flashcard, the answer to the question is revealed in place of it. If it is tapped a second time, the question can be viewed again. Multiple choice answer buttons are placed beneath the flashcard, allowing the user to pick an option. If the answer is incorrect, the button will disappear. If the answer is correct, the answer will be revealed in place of the flashcard.
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/92334995/158038877-837d1e2c-890f-4724-b820-d7f0be62edf2.gif)
 
 
 ## Required
