@@ -7,7 +7,9 @@ Finally, in this add-on to the Flashcards project, there is now a custom app ico
 
 ### App Walk-though 
 
-![Lab 4 walkthrough](https://user-images.githubusercontent.com/86666720/197610731-79432cd8-99a3-4325-8a0d-d07820b11c38.gif)
+
+https://user-images.githubusercontent.com/86666720/197617207-e441bdad-4765-4e1e-89f4-46d2ef2faf48.mp4
+
 
 
 ## Required
